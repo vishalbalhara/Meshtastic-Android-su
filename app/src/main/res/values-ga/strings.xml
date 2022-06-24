@@ -12,16 +12,16 @@
     <string name="user_avatar">Abhatár an úsáideora</string>
     <string name="sample_message">Hóigh, fuair ​​mé an taisce, tá sé thall anseo in aice leis an tíogar mór. Tá cineál eagla orm.</string>
     <string name="send_text">Seol Téacs</string>
-    <string name="warning_not_paired">Níl raidió comhoiriúnach Meshtastic péireáilte leis an bhfón seo agat fós. Péireáil gléas le do thoil agus socraigh d’ainm úsáideora. Tá an feidhmchlár foinse oscailte seo faoi alfa-thástáil, má aimsíonn tú fadhbanna cuir leis an gcomhrá ar ár suíomh gréasáin iad le do thoil. Le haghaidh tuilleadh faisnéise féach ar ár leathanach gréasáin - www.meshtastic.org.</string>
+    <string name="warning_not_paired">Níl raidió comhoiriúnach Sulomeshéireáilte leis an bhfón seo agat fós. Péireáil gléas le do thoil agus socraigh d’ainm úsáideora. Tá an feidhmchlár foinse oscailte seo faoi alfa-thástáil, má aimsíonn tú fadhbanna cuir leis an gcomhrá ar ár suíomh gréasáin iad le do thoil. Le haghaidh tuilleadh faisnéise féach ar ár leathanach gréasáin - www.suryatel.com.</string>
     <string name="username_unset">Ainm úsáideora díshocraithe</string>
     <string name="your_name">D\'ainm</string>
     <string name="analytics_okay">Staitisticí úsáide gan ainm agus tuairiscí tuairteála.</string>
-    <string name="looking_for_meshtastic_devices">Ag lorg gléasanna Meshtastic …</string>
+    <string name="looking_for_meshtastic_devices">Ag lorg gléasanna Sulomesh …</string>
     <string name="requires_bluetooth">Éilíonn an feidhmchlár seo rochtain bluetooth. Tabhair rochtain i suíomhanna android le do thoil.</string>
     <string name="error_bluetooth">Earráid - éilíonn an aip seo bluetooth</string>
     <string name="starting_pairing">Ag tosú ag péireáil</string>
     <string name="pairing_failed">Theip ar phéireáil</string>
-    <string name="url_for_join">URL chun dul isteach i mogalra Meshtastic</string>
+    <string name="url_for_join">URL chun dul isteach i mogalra Sulomesh</string>
     <string name="accept">Glac</string>
     <string name="cancel">Cealaigh</string>
     <string name="change_channel">Athraigh cainéal</string>
@@ -31,12 +31,12 @@
     <string name="map_not_allowed">Tá anailísíocht díchumasaithe agat. Ar an drochuair, éilíonn ár soláthraí léarscáileanna (bosca léarscáileanna) go gceadófar anailísíocht dá phlean \'saor in aisce\'.
         Mar sin, táimid tar éis an radharc léarscáile a mhúchadh. Más mian leat an léarscáil a fheiceáil, beidh ort anailísíocht a chur ar siúl sa phána Socruithe (freisin, faoi
         láthair, b’fhéidir go mbeidh ort iallach a chur ar an bhfeidhmchlár atosú). Má tá suim agat muid a íoc as bosca léarscáileanna (nó aistriú chuig soláthraí léarscáileanna eile),
-        abair é le do thoil i meshtastic.discourse.group.</string>
-    <string name="permission_missing">Tá cead riachtanach ar iarraidh, ní bheidh Meshtastic in ann oibriú i gceart. Cumasaigh i socruithe feidhmchláir le do thoil.</string>
+        abair é le do thoil i sales@suryatel.com.</string>
+    <string name="permission_missing">Tá cead riachtanach ar iarraidh, ní bheidh Sulomesh in ann oibriú i gceart. Cumasaigh i socruithe feidhmchláir le do thoil.</string>
     <string name="radio_sleeping">Bhí an raidió ina chodladh, ní raibh sé in ann an cainéal a athrú</string>
     <string name="report_bug">Tuairiscigh fabht</string>
     <string name="report_a_bug">Tuairiscigh fabht</string>
-    <string name="report_bug_text">An bhfuil tú cinnte gur mhaith leat fabht a thuairisciú? Tar éis tuairisciú a dhéanamh, cuir sa phost é le do thoil i meshtastic.discourse.group ionas gur féidir
+    <string name="report_bug_text">An bhfuil tú cinnte gur mhaith leat fabht a thuairisciú? Tar éis tuairisciú a dhéanamh, cuir sa phost é le do thoil i sales@suryatel.com ionas gur féidir
         linn an tuarascáil a mheaitseáil leis an méid a d\'aimsigh tú.</string>
     <string name="report">Tuairiscigh</string>
     <string name="select_radio">Roghnaigh raidió</string>

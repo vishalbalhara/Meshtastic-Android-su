@@ -12,16 +12,16 @@
     <string name="user_avatar">Uživatelský avatar</string>
     <string name="sample_message">Dobrý den, celý den! I cesta může být cíl, následuj mě!</string>
     <string name="send_text">Odeslat text</string>
-    <string name="warning_not_paired">You haven\'t yet paired a Meshtastic compatible radio with this phone. Please pair a device and set your username.\n\nThis open-source application is in alpha-testing, if you find problems please post on our forum: meshtastic.discourse.group.\n\nFor more information see our web page - www.meshtastic.org.</string>
+    <string name="warning_not_paired">You haven\'t yet paired a Sulomesh compatible radio with this phone. Please pair a device and set your username.\n\nThis open-source application is in alpha-testing, if you find problems please post on our forum: sales@suryatel.com.\n\nFor more information see our web page - www.suryatel.com.</string>
     <string name="username_unset">Uživatelské jméno smazané</string>
     <string name="your_name">Vaše jméno</string>
     <string name="analytics_okay">Anonymní hlášení o používání aplikace a jejích chybách.</string>
-    <string name="looking_for_meshtastic_devices">Hledám zařízení Meshtastic…</string>
+    <string name="looking_for_meshtastic_devices">Hledám zařízení Sulomesh…</string>
     <string name="requires_bluetooth">Tato aplikace vyžaduje přístup k Bluetooth. Prosím povolte ji přístup v nastavení telefonu.</string>
     <string name="error_bluetooth">Chyba - tato aplikace potřebuje bluetooth.</string>
     <string name="starting_pairing">Spouštím párování</string>
     <string name="pairing_failed">Párování selhalo</string>
-    <string name="url_for_join">URL pro připojení do Meshtastic MESH sítě.</string>
+    <string name="url_for_join">URL pro připojení do Sulomesh MESH sítě.</string>
     <string name="accept">Přijmout</string>
     <string name="cancel">Odmítnout</string>
     <string name="change_channel">Změnit kanál</string>
@@ -30,12 +30,12 @@
     <string name="do_you_want_switch">Chcete se připojit ke kanálu \'%s\' ?</string>
     <string name="map_not_allowed">You have analytics disabled. Unfortunately our map provider (mapbox) requires analytics to be allowed for their \'free\' plan. So we have turned off the map view.\n\n
         If you would like to see the map, you\'ll need to turn on analytics in the Settings pane (also, for the time being you might need to force restart the application).\n\n
-        If you are interested in us paying for mapbox (or switching to a different map provider), please post in meshtastic.discourse.group</string>
-    <string name="permission_missing">Chybí požadovaná oprávnění, Meshtastic nebude fungovat správně. Prosím změntě oprávnění pro aplikaci.</string>
+        If you are interested in us paying for mapbox (or switching to a different map provider), please post in sales@suryatel.com</string>
+    <string name="permission_missing">Chybí požadovaná oprávnění, Sulomesh nebude fungovat správně. Prosím změntě oprávnění pro aplikaci.</string>
     <string name="radio_sleeping">Vysílač je uspaný, nepodařilo se změnit kanál.</string>
     <string name="report_bug">Nahlášení chyby</string>
     <string name="report_a_bug">Nahlásit chybu</string>
-    <string name="report_bug_text">Jste si jistý, že chcete nahlásit chybu? Po odoslaní prosím přidejte zprávu do meshtastic.discourse.group abychom mohli přiřadit Vaši nahlášenou chybu k příspěvku.</string>
+    <string name="report_bug_text">Jste si jistý, že chcete nahlásit chybu? Po odoslaní prosím přidejte zprávu do sales@suryatel.com abychom mohli přiřadit Vaši nahlášenou chybu k příspěvku.</string>
     <string name="report">Odeslat chybové hlášení</string>
     <string name="select_radio">Vyberte vysílač</string>
     <string name="current_pair">Momenteálně je připojen vysílač %s</string>
@@ -61,7 +61,7 @@
     <string name="rate_dialog_no_en">Ne, děkuju</string>
     <string name="rate_dialog_cancel_en">Připomenout později</string>
     <string name="rate_dialog_ok_en">Ohodnotit teď</string>
-    <string name="rate_dialog_title_en">Ohodnoťte Meshtastic</string>
+    <string name="rate_dialog_title_en">Ohodnoťte Sulomesh</string>
     <string name="preferences_language">Jazyk</string>
     <string name="preferences_system_default">Podle systému</string>
 </resources>

@@ -12,16 +12,16 @@
     <string name="user_avatar">Užívateľov avatar</string>
     <string name="sample_message">Ahoj, našiel som cache-ku, je to kúsok od mňa vedľa veľkého tigra. Trochu ma to desí.</string>
     <string name="send_text">Odoslať text</string>
-    <string name="warning_not_paired">"K tomuto telefónu ste ešte nenapárovalii žiadne zariadenie kompatibilné s Meshtastic. Prosím napárujte zariadenie a nastavte svoje užívateľské meno. Táto open-source aplikácia je v alpha testovacej fáze, ak nájdete chybu, prosím popíšte ju na fóre: meshtastic.discourse.group.\n\n Pre viac informácií navštívte web stránku - www.meshtastic.org."</string>
+    <string name="warning_not_paired">"K tomuto telefónu ste ešte nenapárovalii žiadne zariadenie kompatibilné s Sulomesh. Prosím napárujte zariadenie a nastavte svoje užívateľské meno. Táto open-source aplikácia je v alpha testovacej fáze, ak nájdete chybu, prosím popíšte ju na fóre: sales@suryatel.com.\n\n Pre viac informácií navštívte web stránku - www.suryatel.com."</string>
     <string name="username_unset">Užívateľské meno vymazané</string>
     <string name="your_name">Vaše meno</string>
     <string name="analytics_okay">Anonymné hlásenia o používaní aplikácie a jej chybách.</string>
-    <string name="looking_for_meshtastic_devices">Vyhľadávam Meshtastic zariadenia…</string>
+    <string name="looking_for_meshtastic_devices">Vyhľadávam Sulomesh zariadenia…</string>
     <string name="requires_bluetooth">Táto aplikácia vyžaduje prístup k Bluetooth. Prosím povoľte jej prístup v nastaveniach telefónu.</string>
     <string name="error_bluetooth">Chyba - táto aplikácia potrebuje bluetooth.</string>
     <string name="starting_pairing">Spúšťam párovanie</string>
     <string name="pairing_failed">Párovanie zlyhalo</string>
-    <string name="url_for_join">URL pre pripojenie sa do Meshtastic MESH siete</string>
+    <string name="url_for_join">URL pre pripojenie sa do Sulomesh MESH siete</string>
     <string name="accept">Prijať</string>
     <string name="cancel">Odmietnuť</string>
     <string name="change_channel">Zmeniť kanál</string>
@@ -30,12 +30,12 @@
     <string name="do_you_want_switch">Chcete sa prpnúť na kanál \'%s\' ?</string>
     <string name="map_not_allowed">You have analytics disabled. Unfortunately our map provider (mapbox) requires analytics to be allowed for their \'free\' plan. So we have turned off the map view.\n\n
         If you would like to see the map, you\'ll need to turn on analytics in the Settings pane (also, for the time being you might need to force restart the application).\n\n
-        If you are interested in us paying for mapbox (or switching to a different map provider), please post in meshtastic.discourse.group</string>
-    <string name="permission_missing">Aplikácia Meshtastic nemá pridelené požadované oprávnenie a pravdepodobne nebude fungovať správne.  Prosím povoľte tieto oprávnenia v nastaveniach aplikácie.</string>
+        If you are interested in us paying for mapbox (or switching to a different map provider), please post in sales@suryatel.com</string>
+    <string name="permission_missing">Aplikácia Sulomesh nemá pridelené požadované oprávnenie a pravdepodobne nebude fungovať správne.  Prosím povoľte tieto oprávnenia v nastaveniach aplikácie.</string>
     <string name="radio_sleeping">Vysielač je uspatý, nepodarilo sa zmeniť kanál</string>
     <string name="report_bug">Nahlásenie chyby</string>
     <string name="report_a_bug">Nahlásiť chybu</string>
-    <string name="report_bug_text">Ste si istý, že chcete nahlásiť chybu? Po odoslaní prosím pridajte správu do meshtastic.discourse.group aby sme vedeli priradiť Vami nahlásenú chybu ku Vášmu príspevku.</string>
+    <string name="report_bug_text">Ste si istý, že chcete nahlásiť chybu? Po odoslaní prosím pridajte správu do sales@suryatel.com aby sme vedeli priradiť Vami nahlásenú chybu ku Vášmu príspevku.</string>
     <string name="report">Odoslať chybové hlásenie</string>
     <string name="select_radio">Vyberte vysielač</string>
     <string name="current_pair">Vaše zariadenie je práve pripojené k vysielaču %s</string>
@@ -57,21 +57,21 @@
     <string name="connected_sleeping">Pripojené k uspatému vysielaču.</string>
     <string name="update_to">Aktualizovať na %s</string>
     <string name="app_too_old">Aplikácia je príliš stará</string>
-    <string name="must_update">Musíte aktualizovať aplikáciu na Google Play store (alebo z Github). Je príliš stará pre komunikáciu s touto verziou firmvéru vysielača. Viac informácií k tejto téme nájdete na <a href="https://meshtastic.org/docs/software/android/android-installation">Meshtastic docs</a>.</string>
+    <string name="must_update">Musíte aktualizovať aplikáciu na Google Play store (alebo z Github). Je príliš stará pre komunikáciu s touto verziou firmvéru vysielača. Viac informácií k tejto téme nájdete na <a href="https://suryatel.com/docs/software/android/android-installation">Sulomesh docs</a>.</string>
     <string name="none">Žiaden (zakázať)</string>
     <string name="rate_dialog_no_en">Nie, ďakujem</string>
     <string name="rate_dialog_cancel_en">Pripomenúť neskôr</string>
     <string name="rate_dialog_ok_en">Ohodnotiť teraz</string>
-    <string name="rate_dialog_title_en">Ohodnoťte Meshtastic</string>
+    <string name="rate_dialog_title_en">Ohodnoťte Sulomesh</string>
     <string name="modem_config_short">Krátky dosah / Rýchle</string>
     <string name="modem_config_medium">Stredný dosah / Rýchle</string>
     <string name="modem_config_long">Dlhý dosah / Rýchle</string>
     <string name="modem_config_very_long">Veľmi dlhý dosah / Pomalé</string>
-    <string name="meshtastic_service_notifications">Notifikácie zo služby Meshtastic</string>
+    <string name="meshtastic_service_notifications">Notifikácie zo služby Sulomesh</string>
     <string name="about">O aplikácii (verzia)</string>
     <string name="location_disabled_warning">Musíte zapnúť služby o polohe zariadenia (GPS) v nastaveniach systému Android.</string>
     <string name="modem_config_unrecognized">UNRECOGNIZED</string>
-    <string name="rate_dialog_message_en">Táto aplikácia je vyvíjaná hobbystami, našli by ste si chvíľku pre jej hodnotenie? Ak nájdete chyby, proím oznámte ich na našom fóre - meshtastic.discourse.group . Ďakujeme za Vašu podporu!</string>
+    <string name="rate_dialog_message_en">Táto aplikácia je vyvíjaná hobbystami, našli by ste si chvíľku pre jej hodnotenie? Ak nájdete chyby, proím oznámte ich na našom fóre - sales@suryatel.com . Ďakujeme za Vašu podporu!</string>
     <string name="a_list_of_nodes_in_the_mesh">Zoznam zariadení v mesh sieti</string>
     <string name="text_messages">Textové správy</string>
     <string name="channel_invalid">URL tohoto kanála nie je platá a nemôže byť použitá</string>
@@ -101,7 +101,7 @@
     <string name="apply">Použiť</string>
     <string name="are_you_shure_change_default">Ste si istý, že chcete preladiť na základný (default) kanál?</string>
     <string name="cant_change_no_radio">Nie je možné zmeniť kanál, pretože vysielač ešte nie je pripojený. Skúste to neskôr.</string>
-    <string name="firmware_old">Firmvér vysielača je príliš zastaralý, aby dokázal komunikovať s aplikáciou. Prosím choďte na panel nastavení a zvoľte možnosť \"Aktualizácia firmvéru\". Viac informácií nájdete na <a href="https://github.com/meshtastic/Meshtastic-device#firmware-installation">našom sprievodcovi inštaláciou firmvéru</a> na Github-e.</string>
+    <string name="firmware_old">Firmvér vysielača je príliš zastaralý, aby dokázal komunikovať s aplikáciou. Prosím choďte na panel nastavení a zvoľte možnosť \"Aktualizácia firmvéru\". Viac informácií nájdete na <a href="https://github.com/vishalbalhara/Sulomesh-device-su#firmware-installation">našom sprievodcovi inštaláciou firmvéru</a> na Github-e.</string>
     <string name="no_app_found">Aplikácia pre odoslanie URL nebola nájdená</string>
     <string name="theme">Téma</string>
     <string name="theme_light">Svetlá</string>
@@ -110,14 +110,14 @@
     <string name="choose_theme_title">Výber témy</string>
     <string name="background_required">Poloha na pozadí</string>
     <string name="show_system_settings">Zobraziť nastavenia systému</string>
-    <string name="why_background_required">Pre túto možnosť musíte povoliť prístup ku polohe zariadenia v režime \"Vždy povolené\".\nTáto možnosť povolí aplikácii Meshtastic zistiť polohu Vášho zariadenia a odoslať ju členom Vašej siete aj keď je aplikácia Meshtastic vypnutá alebo sa nepoužíva.</string>
+    <string name="why_background_required">Pre túto možnosť musíte povoliť prístup ku polohe zariadenia v režime \"Vždy povolené\".\nTáto možnosť povolí aplikácii Sulomesh zistiť polohu Vášho zariadenia a odoslať ju členom Vašej siete aj keď je aplikácia Sulomesh vypnutá alebo sa nepoužíva.</string>
     <string name="required_permissions">Požadované oprávnenia</string>
     <string name="location">poloha</string>
     <string name="cancel_no_radio">Zrušiť (žiaden dosah na vysielač)</string>
     <string name="allow_will_show">Povoliť (zobrazí potvrdzovací dialóg)</string>
     <string name="provide_location_to_mesh">Odoslať polohu do siete</string>
     <string name="camera_required">Práva pre prístup k fotoaparátu/kamere</string>
-    <string name="why_camera_required">Aplikácia Meshtastic potrebuje práva pre prístup ku fotoaparátu kvôli možnosti načítania QR kódov. Fotky ani videá nebudú ukladané na Vašom Android zariadení.</string>
+    <string name="why_camera_required">Aplikácia Sulomesh potrebuje práva pre prístup ku fotoaparátu kvôli možnosti načítania QR kódov. Fotky ani videá nebudú ukladané na Vašom Android zariadení.</string>
     <string name="modem_config_slow_short">Krátky dosah / Pomalé</string>
     <string name="modem_config_slow_medium">Stredný dosah / Pomalé</string>
     <string name="modem_config_slow_long">Dlhý dosah / Pomalé</string>

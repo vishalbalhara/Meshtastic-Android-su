@@ -16,7 +16,7 @@ class DatabaseModule {
         return Room.databaseBuilder(
             application.applicationContext,
             MeshtasticDatabase::class.java,
-            "meshtastic_database"
+            "sulomesh_database"
         )
             .fallbackToDestructiveMigration()
             .build()

@@ -12,11 +12,11 @@
     <string name="user_avatar">Benutzer Avatar</string>
     <string name="sample_message">Hey, ich habe den Cache gefunden, er ist hier neben dem großen Tiger. Ich bin ein bisschen besorgt.</string>
     <string name="send_text">Text senden</string>
-    <string name="warning_not_paired">Sie haben noch kein Meshtastic-kompatibles Funkgerät mit diesem Telefon gekoppelt. Bitte koppeln Sie ein Gerät und legen Sie Ihren Benutzernamen fest.\n\nDiese Open-Source-Anwendung befindet sich im Alpha-Test. Wenn Sie Probleme finden, veröffentlichen Sie diese bitte auf unserer Website im Chat.\n\nWeitere Informationen finden Sie auf unserer Webseite - www.meshtastic.org.</string>
+    <string name="warning_not_paired">Sie haben noch kein Sulomesh-kompatibles Funkgerät mit diesem Telefon gekoppelt. Bitte koppeln Sie ein Gerät und legen Sie Ihren Benutzernamen fest.\n\nDiese Open-Source-Anwendung befindet sich im Alpha-Test. Wenn Sie Probleme finden, veröffentlichen Sie diese bitte auf unserer Website im Chat.\n\nWeitere Informationen finden Sie auf unserer Webseite - www.suryatel.com.</string>
     <string name="username_unset">Benutzername nicht gesetzt</string>
     <string name="your_name">Dein Name</string>
     <string name="analytics_okay">Anonyme Nutzungsstatistiken und Absturzberichte.</string>
-    <string name="looking_for_meshtastic_devices">Suche nach Meshtastic Geräten…</string>
+    <string name="looking_for_meshtastic_devices">Suche nach Sulomesh Geräten…</string>
     <string name="requires_bluetooth">Diese Anwendung erfordert Bluetooth-Zugang. Bitte gewähren Sie Zugriff in den Android-Einstellungen.</string>
     <string name="error_bluetooth">Fehler - dieses Programm erfordert Bluetooth!</string>
     <string name="starting_pairing">Pairing beginnen</string>

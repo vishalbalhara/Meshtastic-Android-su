@@ -229,8 +229,8 @@ class BTScanModel @Inject constructor(
                 /* Don't populate fake bluetooth devices, because we don't want testlab inside of google
                 to try and use them.
 
-                DeviceListEntry("Meshtastic_ab12", "xaa", false),
-                DeviceListEntry("Meshtastic_32ac", "xbb", true) */
+                DeviceListEntry("Sulomesh_ab12", "xaa", false),
+                DeviceListEntry("Sulomesh_32ac", "xbb", true) */
             )
 
             devices.value = (testnodes.map { it.fullAddress to it }).toMap().toMutableMap()

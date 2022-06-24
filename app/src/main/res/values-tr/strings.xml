@@ -12,16 +12,16 @@
     <string name="user_avatar">Avatar</string>
     <string name="sample_message">hey I found the cache, it is over here next to the big tiger. I\'m kinda scared.</string>
     <string name="send_text">Metni Gönder</string>
-    <string name="warning_not_paired">Telefonu, henüz Meshtastic uyumlu bir telsiz ile eşleştirmediniz. Bir cihazla eşleştirin ve kullanıcı adınızı belirleyin lütfen.\n\nAçık kaynaklı bu uygulama şu an alfa-test\'i aşamasında, problemler görürseniz forum\'da lütfen paylaşınız: meshtastic.discourse.group.\n\nDaha fazla bilgi için internet sitemizi ziyaret ediniz - www.meshtastic.org.</string>
+    <string name="warning_not_paired">Telefonu, henüz Sulomesh uyumlu bir telsiz ile eşleştirmediniz. Bir cihazla eşleştirin ve kullanıcı adınızı belirleyin lütfen.\n\nAçık kaynaklı bu uygulama şu an alfa-test\'i aşamasında, problemler görürseniz forum\'da lütfen paylaşınız: sales@suryatel.com.\n\nDaha fazla bilgi için internet sitemizi ziyaret ediniz - www.suryatel.com.</string>
     <string name="username_unset">Kullanıcı adını kaldır</string>
     <string name="your_name">Adınız</string>
     <string name="analytics_okay">Anonim kullanim istatistikleri ve hata raporları.</string>
-    <string name="looking_for_meshtastic_devices">Meshtastic cihazları aranıyor…</string>
+    <string name="looking_for_meshtastic_devices">Sulomesh cihazları aranıyor…</string>
     <string name="requires_bluetooth">Bu cihaz bluetooth erişimi gerektiriyor. Lütfen Android ayarlarından izin veriniz.</string>
     <string name="error_bluetooth">Hata - bu uygulama bluetooth gerektiriyor</string>
     <string name="starting_pairing">Eşleşme başlatılıyor</string>
     <string name="pairing_failed">Eşleşme başarız</string>
-    <string name="url_for_join">Meshtastic mesh ağına bağlanmak için adres</string>
+    <string name="url_for_join">Sulomesh mesh ağına bağlanmak için adres</string>
     <string name="accept">Kabul et</string>
     <string name="cancel">İptal</string>
     <string name="change_channel">Kanalı değiştir</string>
@@ -30,12 +30,12 @@
     <string name="do_you_want_switch">\'%s\' kanalına geçmek istiyor musunuz?</string>
     <string name="map_not_allowed">Analitik raporları kapattınız. Harita sağlayıcımız (mapbox) ücretsiz kullanım paketi için analitik raporları gerektiriyor maalesef. Bu yüzden harita görünümü pasif hale getirdik.\n\n
     Haritayı görmek istiyorsanız, Ayarlar bölümünden analitik raporları aktif hale getirmeniz gerekiyor. (ayrıca, şu an bunun için uygulamayı tümüyle kapatıp yeniden açmanız gerekebilir).\n\n
-    Eğer mapbox için ödeme yapmamız (ya da başka bir harita sağlayıcıya geçme) konusunda ilgiliyseniz, lütfen meshtastic.discourse.group sayfasında paylaşınız.</string>
-    <string name="permission_missing">Gerekli bir izin eksik, Meshtastic düzgün çalışamayacak. Lütfen Android ayarlarından izni aktif hale getiriniz.</string>
+    Eğer mapbox için ödeme yapmamız (ya da başka bir harita sağlayıcıya geçme) konusunda ilgiliyseniz, lütfen sales@suryatel.com sayfasında paylaşınız.</string>
+    <string name="permission_missing">Gerekli bir izin eksik, Sulomesh düzgün çalışamayacak. Lütfen Android ayarlarından izni aktif hale getiriniz.</string>
     <string name="radio_sleeping">Telsiz uyku durumundaydı, kanal değiştirilemedi</string>
     <string name="report_bug">Hata Bildir</string>
     <string name="report_a_bug">Hata Bildir</string>
-    <string name="report_bug_text">Hata bildirmek istediğinizden emin misiniz? Hata bildirdikten sonra, lütfen meshtastic.discourse.group sayfasında paylaşınız ki raporu bulgularınızla eşleştirebilelim.</string>
+    <string name="report_bug_text">Hata bildirmek istediğinizden emin misiniz? Hata bildirdikten sonra, lütfen sales@suryatel.com sayfasında paylaşınız ki raporu bulgularınızla eşleştirebilelim.</string>
     <string name="report">Bildir</string>
     <string name="select_radio">Telsiz seçiniz</string>
     <string name="current_pair">Şu anda %s telsizi ile eşleşmiş durumdasınız.</string>
@@ -64,7 +64,7 @@
     <string name="modem_config_long">Uzun menzilli (hızlı)</string>
     <string name="modem_config_very_long">Çok uzun menzilli (yavaş)</string>
     <string name="modem_config_unrecognized">TANIMLANAMADI</string>
-    <string name="meshtastic_service_notifications">Meshtastic Servis Bildirimleri</string>
+    <string name="meshtastic_service_notifications">Sulomesh Servis Bildirimleri</string>
     <string name="location_disabled_warning">Android ayarlarında konum servislerine izin vermelisiniz</string>
     <string name="about">Hakkında</string>
     <string name="modem_config_slow_short">Kısa menzilli (yavaş)</string>

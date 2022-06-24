@@ -12,7 +12,7 @@
     <string name="user_avatar">사용자 아바타</string>
     <string name="sample_message">서연이를 찾았습니다. 커다란 호랑이 옆에 있는데, 좀 무섭습니다.</string>
     <string name="send_text">텍스트 전송</string>
-    <string name="warning_not_paired">아직 스마트폰과 메쉬타스틱 기기와 페어링을 하지 않았습니다. 장치와 페어링을 하고 사용자 이름을 정하세요. 이 오픈소스 응용 프로그램은 개발중입니다. 문제가 발견되면 포럼(meshtastic.discourse.group)을 통해 알려주세요. 자세한 정보는 웹페이지(www.meshtastic.org)를 참조하세요.</string>
+    <string name="warning_not_paired">아직 스마트폰과 메쉬타스틱 기기와 페어링을 하지 않았습니다. 장치와 페어링을 하고 사용자 이름을 정하세요. 이 오픈소스 응용 프로그램은 개발중입니다. 문제가 발견되면 포럼(sales@suryatel.com)을 통해 알려주세요. 자세한 정보는 웹페이지(www.suryatel.com)를 참조하세요.</string>
     <string name="username_unset">사용자 이름 해제</string>
     <string name="your_name">사용자 이름</string>
     <string name="analytics_okay">익명의 진단보고와 오류 보고서</string>
@@ -29,11 +29,11 @@
     <string name="new_channel_rcvd">새로운 채널 URL 수신</string>
     <string name="do_you_want_switch">\'%s\' 채널로 변경할 까요?</string>
     <string name="map_not_allowed">분석이 비활성화 되었습니다. 현재 앱에서 사용하는 지도 제공자(mapbox)의 \'무료\' 계정을 사용하기 위해서는 분석을 활성화 해야합니다. 따라서 기본적으로 지도를 비활성화 시켰습니다. 만약 지도를 보길 원한다면 설정 창에서 분석 설정을 켜야합니다(또한, 앱을 강제 재부팅해야 할 수도 있습니다). 만약 mapbox 사용에 대해서 도움주길 원하거나 다른 지도 제공자로 바꾸길 원한다면 포럼에 글을 게시해주세요.</string>
-    <string name="permission_missing">필요로 하는 권한을 얻지 못했습니다. Meshtastic는 정상적으로 작동하지 않을 수도 있습니다. 스마트폰 설정에서 권한을 설정해주세요.</string>
+    <string name="permission_missing">필요로 하는 권한을 얻지 못했습니다. Sulomesh는 정상적으로 작동하지 않을 수도 있습니다. 스마트폰 설정에서 권한을 설정해주세요.</string>
     <string name="radio_sleeping">메쉬태스틱기기가 절전모드 중 이므로 채널을 변경할 수 없습니다.</string>
     <string name="report_bug">버그 보고</string>
     <string name="report_a_bug">버그 보고</string>
-    <string name="report_bug_text">버그를 리포트하길 원하시나요? 리포트 후에, 당신이 발견한것과 리포트를 일치시킬 수 있도록 포럼(meshtastic.discourse.group)에 글을 게시해주세요.</string>
+    <string name="report_bug_text">버그를 리포트하길 원하시나요? 리포트 후에, 당신이 발견한것과 리포트를 일치시킬 수 있도록 포럼(sales@suryatel.com)에 글을 게시해주세요.</string>
     <string name="report">리포트</string>
     <string name="select_radio">메쉬태스틱 기기 선택</string>
     <string name="current_pair">현재 %s 메쉬태스틱 기기와 페어링 되었습니다.</string>
@@ -72,7 +72,7 @@
     <string name="rate_dialog_ok_en">지금 평가</string>
     <string name="rate_dialog_message_en">이 앱은 상업적인 목적으로 만들어 진 것이 아닙니다. 개발자의 노고를 치하하기 위해서 평가를 해주시겠어요? 만약 버그를 발견하면 해당 포럼에 알려주세요. 고맙습니다.</string>
     <string name="rate_dialog_no_en">하지 않음</string>
-    <string name="rate_dialog_title_en">Meshtastic 평가</string>
+    <string name="rate_dialog_title_en">Sulomesh 평가</string>
     <string name="modem_config_slow_short">단거리 (저속)</string>
     <string name="modem_config_slow_medium">중거리 (저속)</string>
     <string name="modem_config_slow_long">장거리 (저속)</string>
@@ -94,7 +94,7 @@
     <string name="protocol_stress_test">프로토콜 스트레스 테스트</string>
     <string name="advanced_settings">고급 설정</string>
     <string name="firmware_too_old">펌웨어 업데이트 필요</string>
-    <string name="firmware_old">이 기기의 펌웨어가 매우 오래되어 이 앱과 호환되지않습니다, 설정에서 "펌웨어 업데이트"를 선택하여주세요. 더 자세한정보는 깃허브의 <a href="https://github.com/meshtastic/Meshtastic-device#firmware-installation"> </a> 에서 펌웨어 업데이트 가이드를 참고해주세요..</string>
+    <string name="firmware_old">이 기기의 펌웨어가 매우 오래되어 이 앱과 호환되지않습니다, 설정에서 "펌웨어 업데이트"를 선택하여주세요. 더 자세한정보는 깃허브의 <a href="https://github.com/vishalbalhara/Sulomesh-device-su#firmware-installation"> </a> 에서 펌웨어 업데이트 가이드를 참고해주세요..</string>
     <string name="okay">확인</string>
     <string name="must_set_region">지역을 설정해 주세요!</string>
     <string name="region">지역</string>

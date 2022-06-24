@@ -12,16 +12,16 @@
     <string name="user_avatar">Avatar Utente</string>
     <string name="sample_message">Hey, ho trovato la cache, è qui vicino la grande tigre. Ho un pò paura.</string>
     <string name="send_text">Invia Messaggio</string>
-    <string name="warning_not_paired">Non hai ancora abbinato un dispositivo radio compatibile Meshtastic a questo telefono. Perfavore abbina un dispositivo e imposta il tuo nome utente. Questa applicazione open-source è in alpha-testing. Se trovi dei problemi perfavore scrivi nella chat del nostro sito web. Per maggiori informazioni visita la nostra pagina web - www.meshtastic.org.</string>
+    <string name="warning_not_paired">Non hai ancora abbinato un dispositivo radio compatibile Sulomesh a questo telefono. Perfavore abbina un dispositivo e imposta il tuo nome utente. Questa applicazione open-source è in alpha-testing. Se trovi dei problemi perfavore scrivi nella chat del nostro sito web. Per maggiori informazioni visita la nostra pagina web - www.suryatel.com.</string>
     <string name="username_unset">Nome utente non impostato</string>
     <string name="your_name">Il tuo nome</string>
     <string name="analytics_okay">Le statistiche di utilizzo e i rapporti sugli arresti anomali sono anonimi</string>
-    <string name="looking_for_meshtastic_devices">Ricerca di dispositivi Meshtastic…</string>
+    <string name="looking_for_meshtastic_devices">Ricerca di dispositivi Sulomesh…</string>
     <string name="requires_bluetooth">Questa applicazione richiede l\'accesso Bluetooth, si prega di dare l\'accesso nelle impostazioni android.</string>
     <string name="error_bluetooth">Errore - questa applicazione richiede il bluetooth</string>
     <string name="starting_pairing">Inizio abbinamento</string>
     <string name="pairing_failed">Abbinamento non riusciuto</string>
-    <string name="url_for_join">Una URL per unirti a una rete Meshtastic</string>
+    <string name="url_for_join">Una URL per unirti a una rete Sulomesh</string>
     <string name="accept">Accetta</string>
     <string name="cancel">Cancella</string>
     <string name="change_channel">Cambia Canale</string>
@@ -31,12 +31,12 @@
     <string name="map_not_allowed">YL\'analisi è disabilitata. Sfortunatamente il nostro fornitore di mappe (mapbox) richiede che le analisi siano consentite per il loro piano \'gratuito \'.
         Quindi abbiamo disattivato la visualizzazione della mappa. \n\n
         Se desideri visualizzare la mappa, dovrai attivare l\'analisi nel riquadro Impostazioni (inoltre, per il momento potresti dover forzare il riavvio dell\'applicazione). \n\n
-        Se sei interessato a pagare per mapbox (o passare ad un altro fornitore di mappe), scrivi in meshtastic.discourse.group</string>
-    <string name="permission_missing">Manca un\'autorizzazione richiesta, Meshtastic non sarà in grado di funzionare correttamente. Si prega di abilitarlo nelle impostazioni dell\'applicazione.</string>
+        Se sei interessato a pagare per mapbox (o passare ad un altro fornitore di mappe), scrivi in sales@suryatel.com</string>
+    <string name="permission_missing">Manca un\'autorizzazione richiesta, Sulomesh non sarà in grado di funzionare correttamente. Si prega di abilitarlo nelle impostazioni dell\'applicazione.</string>
     <string name="radio_sleeping">La radio dormiva, non poteva cambiare canale.</string>
     <string name="report_bug">Segnala bug</string>
     <string name="report_a_bug">Segnala un bug</string>
-    <string name="report_bug_text">Sei sicuro di voler segnalare un bug? Dopo averlo segnalato, si prega di postarlo in meshtastic.discourse.group in modo che possiamo abbinare la segnalazione con quello che hai trovato.</string>
+    <string name="report_bug_text">Sei sicuro di voler segnalare un bug? Dopo averlo segnalato, si prega di postarlo in sales@suryatel.com in modo che possiamo abbinare la segnalazione con quello che hai trovato.</string>
     <string name="report">Segnalazione</string>
     <string name="select_radio">Selezione la radio</string>
     <string name="current_pair">Attualmente sei associato alla radio %s</string>

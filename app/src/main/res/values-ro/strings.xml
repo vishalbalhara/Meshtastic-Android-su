@@ -12,16 +12,16 @@
     <string name="user_avatar">Avatar</string>
     <string name="sample_message">hey am găsit cache-ul, este chiar aici lângă marele tigru. Mi-e cam frică.</string>
     <string name="send_text">Trimite textul</string>
-    <string name="warning_not_paired">Nu conectat vre-un dispozitiv care suportă Meshtastic cu acest telefon. Te rog, conectează un dispozitiv cu acest telefon.\n\n Acesta aplicație open-source se află în alpha-testing, dacă întâmpini probleme contactează-ne: meshtastic.discourse.group.\n\nPentru mai multe informații: - www.meshtastic.org.</string>
+    <string name="warning_not_paired">Nu conectat vre-un dispozitiv care suportă Sulomesh cu acest telefon. Te rog, conectează un dispozitiv cu acest telefon.\n\n Acesta aplicație open-source se află în alpha-testing, dacă întâmpini probleme contactează-ne: sales@suryatel.com.\n\nPentru mai multe informații: - www.suryatel.com.</string>
     <string name="username_unset">Username nesetat</string>
     <string name="your_name">Numele tău</string>
     <string name="analytics_okay">Trimite în mod anonim statistici de utilizare și reporturi de crash.</string>
-    <string name="looking_for_meshtastic_devices">Caut dispozitive Meshtastic…</string>
+    <string name="looking_for_meshtastic_devices">Caut dispozitive Sulomesh…</string>
     <string name="requires_bluetooth">Această aplicație necesită access la bluetooth. Te rog acordă accesul în setările telefonului.</string>
     <string name="error_bluetooth">Eroare - această aplicație necesită bluetooth</string>
     <string name="starting_pairing">Încep să mă conectez</string>
     <string name="pairing_failed">Conectare eșuată</string>
-    <string name="url_for_join">Un URL pentru a intră în rețeaua Meshtastic</string>
+    <string name="url_for_join">Un URL pentru a intră în rețeaua Sulomesh</string>
     <string name="accept">Accept</string>
     <string name="cancel">Renunta</string>
     <string name="change_channel">Schimbă canalul</string>
@@ -30,12 +30,12 @@
     <string name="do_you_want_switch">Vrei să faci schimbul \'%s\' canalului?</string>
     <string name="map_not_allowed">Ai analiticele dezactivate. Din nefericire providerul hărților (mapbox) necesită analitice în planul \'gratuit\'. Așadar am dezactivat harta.\n\n
         Dacă vrei să vezi harta, trebuie să pornești analiticele în panoul de setări (s-ar putea să fii nevoit să restartezi aplicația).\n\n
-        Dacă sugerezi să plătim pentru mapbox (sau să schimbăm providerul hărții), te rog, postează în meshtastic.discourse.group</string>
-    <string name="permission_missing">O permisiune necesară lipsește, Meshtastic nu o să funcționeze corespunzător.  Te rugăm activează-o în setările Android.</string>
+        Dacă sugerezi să plătim pentru mapbox (sau să schimbăm providerul hărții), te rog, postează în sales@suryatel.com</string>
+    <string name="permission_missing">O permisiune necesară lipsește, Sulomesh nu o să funcționeze corespunzător.  Te rugăm activează-o în setările Android.</string>
     <string name="radio_sleeping">Nu am putut să schimb canalul deoarece dispozitivul era în sleep mode</string>
     <string name="report_bug">Raportează Bug</string>
     <string name="report_a_bug">Raportează un bug</string>
-    <string name="report_bug_text">Ești sigur că vrei să raportezi un bug? După ce ai raportat, te rog postează în meshtastic.discourse.group că să reușim să potrivim reportul tău cu ce ai găsit.</string>
+    <string name="report_bug_text">Ești sigur că vrei să raportezi un bug? După ce ai raportat, te rog postează în sales@suryatel.com că să reușim să potrivim reportul tău cu ce ai găsit.</string>
     <string name="report">Raportare</string>
     <string name="select_radio">Selectează un dispozitiv</string>
     <string name="current_pair">Ești conectat la dispozitiv-ul %s</string>
@@ -64,7 +64,7 @@
     <string name="modem_config_long">Rază lungă (rapidă)</string>
     <string name="modem_config_very_long">Rază foarte lungă (încet)</string>
     <string name="modem_config_unrecognized">NERECUNOSCUT</string>
-    <string name="meshtastic_service_notifications">Notificările Sistemului Meshtastic</string>
+    <string name="meshtastic_service_notifications">Notificările Sistemului Sulomesh</string>
     <string name="location_disabled_warning">Trepuie să pornești serviciile de locație (de high accuracy) în setările Android</string>
     <string name="about">Despre</string>
     <string name="a_list_of_nodes_in_the_mesh">O lista cu nodurile din rețea</string>

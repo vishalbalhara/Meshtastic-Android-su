@@ -11,16 +11,16 @@
     <string name="user_avatar">Avatar do Usuário</string>
     <string name="sample_message">Hey, encontrei o cache, está aqui ao lado do grande tigre. Estou um pouco assustado.</string>
     <string name="send_text">Enviar Texto</string>
-    <string name="warning_not_paired">Ainda não emparelhou um rádio compatível com Meshtastic com este telefone. Emparelhe um dispositivo e defina seu nome de usuário.\n\nEste aplicativo de código aberto está em teste alfa, se encontrar problemas, por favor reporte através do nosso forum em: meshtastic.discourse.group.\n\nPara obter mais informações, consulte a nossa página web - www.meshtastic.org.</string>
+    <string name="warning_not_paired">Ainda não emparelhou um rádio compatível com Sulomesh com este telefone. Emparelhe um dispositivo e defina seu nome de usuário.\n\nEste aplicativo de código aberto está em teste alfa, se encontrar problemas, por favor reporte através do nosso forum em: sales@suryatel.com.\n\nPara obter mais informações, consulte a nossa página web - www.suryatel.com.</string>
     <string name="username_unset">Nome indefinido</string>
     <string name="your_name">O seu Nome</string>
     <string name="analytics_okay">Estatísticas de uso anônimas e relatórios de falhas.</string>
-    <string name="looking_for_meshtastic_devices">A procurar dispositivos Meshtastic…</string>
+    <string name="looking_for_meshtastic_devices">A procurar dispositivos Sulomesh…</string>
     <string name="requires_bluetooth">Esta aplicação requer acesso ao Bluetooth. Por favor conceda acesso nas opções do android.</string>
     <string name="error_bluetooth">Erro - esta app requer de bluetooth</string>
     <string name="starting_pairing">A iniciar o emparelhamento.</string>
     <string name="pairing_failed">Emparelhamento falhou</string>
-    <string name="url_for_join">Um link para se juntar a mesh Meshtastic</string>
+    <string name="url_for_join">Um link para se juntar a mesh Sulomesh</string>
     <string name="accept">Aceitar</string>
     <string name="cancel">Cancelar</string>
     <string name="change_channel">Mudar de canal</string>
@@ -29,12 +29,12 @@
     <string name="do_you_want_switch">Pretende mudar para o canal \'%s\' ?</string>
     <string name="map_not_allowed">Tem os dados analícos desativados. Infelizmente o fornecedor do mapa (mapbox) requer dos dados analíticos estejam activados para o seu plano \'gratuito\' . Por isso a visualização do mapa esta desativado.\n\n
         Se pretender visualizar o mapa, vai necessitar de ativar os dados anaíticos no painel Configurações (também pode ser necessário forçar o reinício do aplicativo). \n\n
-        Se estiver interessado em pagarmos pelo mapbox (ou mudar para um provedor de mapas diferente), contacte através de meshtastic.discourse.group</string>
-    <string name="permission_missing">Meshtastic precisa da permissão de %s e da localização ativada para encontrar novos dispositivos via bluetooth. Você pode desativar novamente depois.</string>
+        Se estiver interessado em pagarmos pelo mapbox (ou mudar para um provedor de mapas diferente), contacte através de sales@suryatel.com</string>
+    <string name="permission_missing">Sulomesh precisa da permissão de %s e da localização ativada para encontrar novos dispositivos via bluetooth. Você pode desativar novamente depois.</string>
     <string name="radio_sleeping">O rádio estava a dormir, não conseguia mudar de canal</string>
     <string name="report_bug">Reportar Bug</string>
     <string name="report_a_bug">Reportar a bug</string>
-    <string name="report_bug_text">Tem certeza de que deseja reportar um bug? Após o relatório, comunique também em meshtastic.discourse.group para que possamos comparar o relatório com o que encontrou.</string>
+    <string name="report_bug_text">Tem certeza de que deseja reportar um bug? Após o relatório, comunique também em sales@suryatel.com para que possamos comparar o relatório com o que encontrou.</string>
     <string name="report">Reportar</string>
     <string name="select_radio">Selecionar rádio</string>
     <string name="current_pair">De momento, está emparelhado com o rádio %s</string>
@@ -63,7 +63,7 @@
     <string name="modem_config_long">Longo alcance / lento</string>
     <string name="modem_config_very_long">Muito longo alcance / lento</string>
     <string name="modem_config_unrecognized">DESCONHECIDO</string>
-    <string name="meshtastic_service_notifications">Notificações do Serviço Meshtastic</string>
+    <string name="meshtastic_service_notifications">Notificações do Serviço Sulomesh</string>
     <string name="location_disabled_warning">Deve ativar os serviços de localização nas configurações do Android</string>
     <string name="about">Sobre</string>
     <string name="a_list_of_nodes_in_the_mesh">Lista de nós na mesh</string>
@@ -86,7 +86,7 @@
     <string name="protocol_stress_test">Stress test do protocolo</string>
     <string name="advanced_settings">Configurações avançadas</string>
     <string name="firmware_too_old">Atualização do firmware necessária</string>
-    <string name="firmware_old">Versão de firmware do rádio muito antiga para comunicar com este aplicativo, favor acessar opção "Atualizar firmware" nas Configurações.  Para mais informações consultar <a href="https://github.com/meshtastic/Meshtastic-device#firmware-installation">Nosso guia de instalação de firmware</a> no Github.</string>
+    <string name="firmware_old">Versão de firmware do rádio muito antiga para comunicar com este aplicativo, favor acessar opção "Atualizar firmware" nas Configurações.  Para mais informações consultar <a href="https://github.com/vishalbalhara/Sulomesh-device-su#firmware-installation">Nosso guia de instalação de firmware</a> no Github.</string>
     <string name="okay">Okay</string>
     <string name="must_set_region">Você deve informar uma região!</string>
     <string name="region">Região</string>
@@ -105,7 +105,7 @@
     <string name="choose_theme_title">Escolher tema</string>
     <string name="background_required">Localização em segundo plano</string>
     <string name="show_system_settings">Exibir configurações do sistema</string>
-    <string name="why_background_required">Para este recurso, você deve conceder permissão para acessar Local com a opção \"Permitir o tempo todo\".\nIsto permite ao Meshtastic ler a localização do seu smartphone e enviar aos membros da sua mesh, mesmo quando o aplicativo está fechado ou não em uso.</string>
+    <string name="why_background_required">Para este recurso, você deve conceder permissão para acessar Local com a opção \"Permitir o tempo todo\".\nIsto permite ao Sulomesh ler a localização do seu smartphone e enviar aos membros da sua mesh, mesmo quando o aplicativo está fechado ou não em uso.</string>
     <string name="required_permissions">Permissões necessárias</string>
     <string name="location">localização</string>
     <string name="cancel_no_radio">Cancelar (sem acesso ao rádio)</string>

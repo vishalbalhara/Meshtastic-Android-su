@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">Meshtastic</string>
+    <string name="app_name" translatable="false">Sulomesh</string>
     <string name="action_settings">Settings</string>
     <string name="channel_name">Channel Name</string>
     <string name="channel_options">Channel options</string>
@@ -14,18 +14,18 @@
     <string name="sample_message">hey I found the cache, it is over here next to the big tiger. I\'m kinda scared.</string>
     <string name="some_username" translatable="false">SKH</string>
     <string name="send_text">Send Text</string>
-    <string name="warning_not_paired">You haven\'t yet paired a Meshtastic compatible radio with this phone. Please pair a device and set your username.\n\nThis open-source application is in development, if you find problems please post on our forum: meshtastic.discourse.group.\n\nFor more information see our web page - www.meshtastic.org.</string>
+    <string name="warning_not_paired">You haven\'t yet paired a Sulomesh compatible radio with this phone. Please pair a device and set your username.\n\nThis open-source application is in development, if you find problems please post on our email sales@suryatel.com.\n\nFor more information see our web page - www.suryatel.com.</string>
     <string name="username_unset">Username unset</string>
     <string name="your_name">Your Name</string>
     <string name="analytics_okay">Anonymous usage statistics and crash reports.</string>
-    <string name="looking_for_meshtastic_devices">Looking for Meshtastic devices…</string>
-    <string name="test__devname1" translatable="false">Meshtastic_ac23</string>
-    <string name="test_devname2" translatable="false">Meshtastic_1267</string>
+    <string name="looking_for_meshtastic_devices">Looking for Sulomesh devices…</string>
+    <string name="test__devname1" translatable="false">Sulomesh_ac23</string>
+    <string name="test_devname2" translatable="false">Sulomesh_1267</string>
     <string name="requires_bluetooth">This application requires bluetooth access. Please grant access in android settings.</string>
     <string name="error_bluetooth">Error - this app requires bluetooth</string>
     <string name="starting_pairing">Starting pairing</string>
     <string name="pairing_failed">Pairing failed</string>
-    <string name="url_for_join">A URL for joining a Meshtastic mesh</string>
+    <string name="url_for_join">A URL for joining a Sulomesh mesh</string>
     <string name="accept">Accept</string>
     <string name="cancel">Cancel</string>
     <string name="change_channel">Change channel</string>
@@ -34,12 +34,12 @@
     <string name="do_you_want_switch">Do you want to switch to the \'%s\' channel?</string>
     <string name="map_not_allowed">You have analytics disabled. Unfortunately our map provider (mapbox) requires analytics to be allowed for their \'free\' plan. So we have turned off the map view.\n\n
         If you would like to see the map, you\'ll need to turn on analytics in the Settings pane (also, for the time being you might need to force restart the application).\n\n
-        If you are interested in us paying for mapbox (or switching to a different map provider), please post in meshtastic.discourse.group</string>
-    <string name="permission_missing">Meshtastic needs %s permission and location must be turned on to find new devices via bluetooth. You can turn it off again afterwards.</string>
+        If you are interested in us paying for mapbox (or switching to a different map provider), please post at sales@suryate.com</string>
+    <string name="permission_missing">Sulomesh needs %s permission and location must be turned on to find new devices via bluetooth. You can turn it off again afterwards.</string>
     <string name="radio_sleeping">Radio was sleeping, could not change channel</string>
     <string name="report_bug">Report Bug</string>
     <string name="report_a_bug">Report a bug</string>
-    <string name="report_bug_text">Are you sure you want to report a bug? After reporting, please post in meshtastic.discourse.group so we can match up the report with what you found.</string>
+    <string name="report_bug_text">Are you sure you want to report a bug? After reporting, please post at sales@suryate.com so we can match up the report with what you found.</string>
     <string name="report">Report</string>
     <string name="select_radio">Select radio</string>
     <string name="current_pair">You are currently paired with radio %s</string>
@@ -61,14 +61,14 @@
     <string name="connected_sleeping">Connected to radio, but it is sleeping</string>
     <string name="update_to">Update to %s</string>
     <string name="app_too_old">Application update required</string>
-    <string name="must_update">You must update this application on the app store (or Github). It is too old to talk to this radio firmware.  Please read our <a href="https://meshtastic.org/docs/software/android/android-installation">docs</a> on this topic.</string>
+    <string name="must_update">You must update this application. It is too old to talk to this radio firmware.</string>
     <string name="none">None (disable)</string>
     <string name="modem_config_short">Short Range / Fast</string>
     <string name="modem_config_medium">Medium Range / Fast</string>
     <string name="modem_config_long">Long Range / Fast</string>
     <string name="modem_config_very_long">Very Long Range / Slow</string>
     <string name="modem_config_unrecognized">UNRECOGNIZED</string>
-    <string name="meshtastic_service_notifications">Meshtastic Service Notifications</string>
+    <string name="meshtastic_service_notifications">Sulomesh Service Notifications</string>
     <string name="location_disabled_warning">Location must be turned on (high accuracy) to find new devices via bluetooth. You can turn it off again afterwards.</string>
     <string name="about">About</string>
     <string name="a_list_of_nodes_in_the_mesh">A list of nodes in the mesh</string>
@@ -90,7 +90,7 @@
     <string name="protocol_stress_test">Protocol stress test</string>
     <string name="advanced_settings">Advanced settings</string>
     <string name="firmware_too_old">Firmware update required</string>
-    <string name="firmware_old">The radio firmware is too old to talk to this application, please go to the settings pane and choose "Update Firmware".  For more information on this see <a href="https://github.com/meshtastic/Meshtastic-device#firmware-installation">our Firmware Installation guide</a> on Github.</string>
+    <string name="firmware_old">The radio firmware is too old to talk to this application, please go to the settings pane and choose "Update Firmware".  For more information on this see <a href="https://github.com/vishalbalhara/Sulomesh-device-su#firmware-installation">our Firmware Installation guide</a> on Github.</string>
     <string name="okay">Okay</string>
     <string name="must_set_region">You must set a region!</string>
     <string name="region">Region</string>
@@ -111,7 +111,7 @@
     <string name="choose_theme_title">Choose theme</string>
     <string name="background_required">Background location</string>
     <string name="show_system_settings">Show system settings</string>
-    <string name="why_background_required">For this feature, you must grant Location permission option \"Allow all the time\".\nThis allows Meshtastic to read your smartphone location and send it to other members of your mesh, even when the app is closed or not in use.</string>
+    <string name="why_background_required">For this feature, you must grant Location permission option \"Allow all the time\".\nThis allows Sulomesh to read your smartphone location and send it to other members of your mesh, even when the app is closed or not in use.</string>
     <string name="required_permissions">Required permissions</string>
     <string name="location">location</string>
     <string name="cancel_no_radio">Cancel (no radio access)</string>

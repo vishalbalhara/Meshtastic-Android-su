@@ -92,6 +92,6 @@ class NsdRepository @Inject constructor(
     companion object {
         //To find all the available networks SERVICE_TYPE = "_services._dns-sd._udp"
         const val SERVICE_TYPE = "_http._tcp."
-        const val serviceName = "Meshtastic"
+        const val serviceName = "Sulomesh"
     }
 }

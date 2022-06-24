@@ -15,7 +15,7 @@ data class ChannelSet(
 ) : Logging {
     companion object {
 
-        const val prefix = "https://www.meshtastic.org/d/#"
+        const val prefix = "https://www.suryatel.com/e/#"
 
         private const val base64Flags = Base64.URL_SAFE + Base64.NO_WRAP + Base64.NO_PADDING
 

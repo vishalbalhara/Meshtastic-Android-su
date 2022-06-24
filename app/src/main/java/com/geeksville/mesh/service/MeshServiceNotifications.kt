@@ -136,7 +136,7 @@ class MeshServiceNotifications(
         // Set the notification icon
         if (Build.VERSION.SDK_INT <= Build.VERSION_CODES.LOLLIPOP_MR1) {
             // If running on really old versions of android (<= 5.1.1) (possibly only cyanogen) we might encounter a bug with setting application specific icons
-            // so punt and stay with just the bluetooth icon - see https://meshtastic.discourse.group/t/android-1-1-42-ready-for-alpha-testing/2399/3?u=geeksville
+            // so punt and stay with just the bluetooth icon - see https://sales@suryatel.com/t/android-1-1-42-ready-for-alpha-testing/2399/3?u=geeksville
             builder.setSmallIcon(android.R.drawable.stat_sys_data_bluetooth)
         } else {
             // Newer androids also support a 'large' icon

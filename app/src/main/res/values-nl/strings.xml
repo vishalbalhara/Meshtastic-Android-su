@@ -12,16 +12,16 @@
     <string name="user_avatar">Gebruikers avatar</string>
     <string name="sample_message">hallo ik heb de schuilplaats gevonden, hier naast de tijger. Ik ben een beetje bang.</string>
     <string name="send_text">Zend Tekst</string>
-    <string name="warning_not_paired">Je hebt nog geen Meshtastic compatibele radio met deze telefoon gekoppeld. Paar alstublieft een apparaat en voer je gebruikersnaam in.\n\nDeze open-source applicatie is in alpha-test, indien je een probleem vaststelt, kan je het posten op onze website chat.\n\nVoor meer informatie bezoek onze web pagina - www.meshtastic.org.</string>
+    <string name="warning_not_paired">Je hebt nog geen Sulomesh compatibele radio met deze telefoon gekoppeld. Paar alstublieft een apparaat en voer je gebruikersnaam in.\n\nDeze open-source applicatie is in alpha-test, indien je een probleem vaststelt, kan je het posten op onze website chat.\n\nVoor meer informatie bezoek onze web pagina - www.suryatel.com.</string>
     <string name="username_unset">Gebruikersnaam terugzetten</string>
     <string name="your_name">Je Naam</string>
     <string name="analytics_okay">Anonieme gebruikersnaam en foutrapporten.</string>
-    <string name="looking_for_meshtastic_devices">Zoekt Meshtastic apparaten…</string>
+    <string name="looking_for_meshtastic_devices">Zoekt Sulomesh apparaten…</string>
     <string name="requires_bluetooth">Deze applicatie vereist bluetooth toegang. Geef toegang in android settings.</string>
     <string name="error_bluetooth">Fout - deze app vereist bluetooth</string>
     <string name="starting_pairing">Start koppeling</string>
     <string name="pairing_failed">Koppeling mislukt</string>
-    <string name="url_for_join">Een URL om te verbinden met een Meshtastic net</string>
+    <string name="url_for_join">Een URL om te verbinden met een Sulomesh net</string>
     <string name="accept">Bevestig</string>
     <string name="cancel">Annuleer</string>
     <string name="change_channel">Verander kanaal</string>
@@ -30,12 +30,12 @@
     <string name="do_you_want_switch">Wil je veranderen naar kanaal \'%s\' ?</string>
 	<string name="map_not_allowed">Je hebt analytics uitgeschakeld. Spijtig want onze kaartprovider (mapbox) vereist ingeschakelde analytics voor het \'gratis\' plan. Daarom hebben we de kaartmodus uitgeschakeld.\n\n
         Indien je de kaart wil zien, is het nodig analytics aan te zetten in de Instellingen (ook is het mogelijk, voorlopig, dat een herstart van de applicatie nodig is).\n\n
-        Indien je het nodig acht dat we betalen voor mapbox (of veranderen naar een andere kaartprovider), post dan een berichtje in de meshtastic.discourse.group</string>
-    <string name="permission_missing">Een vereiste toelating ontbreekt, Meshtastic kan niet goed werken. Graag aanzetten in Instellingen.</string>
+        Indien je het nodig acht dat we betalen voor mapbox (of veranderen naar een andere kaartprovider), post dan een berichtje in de sales@suryatel.com</string>
+    <string name="permission_missing">Een vereiste toelating ontbreekt, Sulomesh kan niet goed werken. Graag aanzetten in Instellingen.</string>
     <string name="radio_sleeping">Radio was in slaapmodus, kon het kanaal niet veranderen</string>
     <string name="report_bug">Rapporteer Bug</string>
     <string name="report_a_bug">Rapporteer een Bug</string>
-    <string name="report_bug_text">Ben je zeker dat je een bug wil rapporteren? Na het doorsturen, graag een post in meshtastic.discourse.group zodat we het rapport kunnen toetsen aan hetgeen je ondervond.</string>
+    <string name="report_bug_text">Ben je zeker dat je een bug wil rapporteren? Na het doorsturen, graag een post in sales@suryatel.com zodat we het rapport kunnen toetsen aan hetgeen je ondervond.</string>
     <string name="report">Rapport</string>
     <string name="select_radio">Selecteer radio</string>
     <string name="current_pair">Je bent momenteel gekoppeld met radio %s</string>
@@ -64,7 +64,7 @@
     <string name="modem_config_long">Groot bereik (maar trager)</string>
     <string name="modem_config_very_long">Zeer groot bereik (maar traag)</string>
     <string name="modem_config_unrecognized">ONBEKEND</string>
-    <string name="meshtastic_service_notifications">Meshtastic Service Berichten</string>
+    <string name="meshtastic_service_notifications">Sulomesh Service Berichten</string>
     <string name="location_disabled_warning">Noodzakelijk de positioneringsservice te activeren in Android Instellingen</string>
     <string name="about">Over</string>
     <string name="a_list_of_nodes_in_the_mesh">Een lijst van de aansluitpunten in het netwerk</string>

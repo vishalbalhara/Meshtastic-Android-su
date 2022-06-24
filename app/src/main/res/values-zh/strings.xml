@@ -12,7 +12,7 @@
     <string name="user_avatar">用户头像</string>
     <string name="sample_message">在吗？我找到了快递，它就在一只大老虎旁边，我好害怕😨！</string>
     <string name="send_text">在此发送信息</string>
-    <string name="warning_not_paired">Mesh设备未与此手机配对，请配对设备并设置好您的用户名.\n\n此开源应用程序正在进行alpha测试，如果您发现问题，请在我们的网站中发布.\n\n更多信息，请访问此网页 - www.meshtastic.org.</string>
+    <string name="warning_not_paired">Mesh设备未与此手机配对，请配对设备并设置好您的用户名.\n\n此开源应用程序正在进行alpha测试，如果您发现问题，请在我们的网站中发布.\n\n更多信息，请访问此网页 - www.suryatel.com.</string>
     <string name="username_unset">用户名未设置</string>
     <string name="your_name">用户名</string>
     <string name="analytics_okay">匿名使用情况统计信息和崩溃报告.</string>
@@ -30,12 +30,12 @@
     <string name="do_you_want_switch">您是否要切换到\'%s\'频道?</string>
     <string name="map_not_allowed">您已禁用分析。 不幸的是，我们的地图提供商 (mapbox) 要求允许分析 \“免费”\计划。 所以我们关闭了地图视图.\n\n
  如果您想查看地图，您将需要在“设置”窗格中打开分析（此外，您可能暂时需要强制重新启动应用程序）.\n\n
-   如果您对我们为 mapbox付费或切换到不同的地图提供商感兴趣，请在 meshtastic.discourse.group 中发帖</string>
+   如果您对我们为 mapbox付费或切换到不同的地图提供商感兴趣，请在 sales@suryatel.com 中发帖</string>
     <string name="permission_missing">缺少所需的权限，Mesh网络将无法正常工作.请在应用程序设置中启用.</string>
     <string name="radio_sleeping">设备正在休眠，无法更改频道</string>
     <string name="report_bug">报告BUG</string>
     <string name="report_a_bug">报告错误</string>
-    <string name="report_bug_text">您确定要报告错误吗？报告后，请在 meshtastic.discourse.group中发帖，以便我们将报告与您发现的内容进行匹配.</string>
+    <string name="report_bug_text">您确定要报告错误吗？报告后，请在 sales@suryatel.com中发帖，以便我们将报告与您发现的内容进行匹配.</string>
     <string name="report">报告</string>
     <string name="select_radio">选择设备</string>
     <string name="current_pair">您目前已与%s配对</string>
@@ -57,7 +57,7 @@
     <string name="connected_sleeping">已连接到设备，正在休眠中</string>
     <string name="update_to">更新到%s</string>
     <string name="app_too_old">需要应用程序更新</string>
-    <string name="must_update">您必须在 Google Play或Github上更新此应用程序.固件太旧，请阅读我们的 <a href="https://meshtastic.org/docs/software/android/android-installation">docs</a> 这个话题.</string>
+    <string name="must_update">您必须在 Google Play或Github上更新此应用程序.固件太旧，请阅读我们的 <a href="https://suryatel.com/docs/software/android/android-installation">docs</a> 这个话题.</string>
     <string name="none">无（禁用）</string>
     <string name="modem_config_short">短距离（速度快）</string>
     <string name="modem_config_medium">中等距离（速度快）</string>
@@ -86,7 +86,7 @@
     <string name="protocol_stress_test">协议压力测试</string>
     <string name="advanced_settings">高级设置</string>
     <string name="firmware_too_old">需要固件更新</string>
-    <string name="firmware_old">固件太旧，无法与此应用程序对话，请转到设置窗头并选择"升级固件".  有关这方面的更多信息，请参阅<a href="https://github.com/meshtastic/Meshtastic-device#firmware-installation">固件安装指南</a> 在GitHub</string>
+    <string name="firmware_old">固件太旧，无法与此应用程序对话，请转到设置窗头并选择"升级固件".  有关这方面的更多信息，请参阅<a href="https://github.com/vishalbalhara/Sulomesh-device-su#firmware-installation">固件安装指南</a> 在GitHub</string>
     <string name="okay">好的</string>
     <string name="must_set_region">你必须选择一个地区</string>
     <string name="region">地区</string>

@@ -12,16 +12,16 @@
     <string name="user_avatar">avatar Utilisateur</string>
     <string name="sample_message">Alo j\'ai trouvé la planque, c\'est près du grand tigre. J\'ai un peu peur.</string>
     <string name="send_text">Envoyer Texte</string>
-    <string name="warning_not_paired">Aucune radio Meshtastic compatible n\'a été jumelée à ce téléphone. Jumelez un appareil et spécifiez votre nom d\'utilisateur.\n\nL\'application open-source est en test alpha, si vous rencontrez des problèmes postez au chat sur notre site web.\n\nPour plus d\'information visitez notre site web - www.meshtastic.org.</string>
+    <string name="warning_not_paired">Aucune radio Sulomesh compatible n\'a été jumelée à ce téléphone. Jumelez un appareil et spécifiez votre nom d\'utilisateur.\n\nL\'application open-source est en test alpha, si vous rencontrez des problèmes postez au chat sur notre site web.\n\nPour plus d\'information visitez notre site web - www.suryatel.com.</string>
     <string name="username_unset">Enlever Nom d\'Utilisateur</string>
     <string name="your_name">Votre Nom</string>
     <string name="analytics_okay">Statistiques et rapports d\'erreur anonymes.</string>
-    <string name="looking_for_meshtastic_devices">Recherche d\'appareils Meshtastic…</string>
+    <string name="looking_for_meshtastic_devices">Recherche d\'appareils Sulomesh…</string>
     <string name="requires_bluetooth">L\'application a besoin d\'accès bluetooth. Donnez l\'accès dans les Paramètres Android.</string>
     <string name="error_bluetooth">Erreur de bluetooth</string>
     <string name="starting_pairing">Démarre jumelage</string>
     <string name="pairing_failed">Jumelage échoué</string>
-    <string name="url_for_join">Un URL pour rejoindre une toile Meshtastic</string>
+    <string name="url_for_join">Un URL pour rejoindre une toile Sulomesh</string>
     <string name="accept">Accepter</string>
     <string name="cancel">Annuler</string>
     <string name="change_channel">Changer de canal</string>
@@ -30,18 +30,18 @@
     <string name="do_you_want_switch">Voulez-vous changer vers canal \'%s\' ?</string>
     <string name="map_not_allowed">Vous avez désactivé les analytiques. Malheureusement notre fournisseur de carte (mapbox) a besoin d\'analytiques activés pour le plan \'gratuit\'. Désormais nous avons désactivé l\'apercu carte.\n\n
         Si vous désirez voir la carte, vous avez besoin d\'activer les analytiques dans les Réglages (également, provisoirement, il peut être nécessaire de redémarrer l\'application).\n\n
-        Si vous trouvez que nous devons payer pour mapbox (ou changer de fournisseur de carte), veuillez poster dans meshtastic.discourse.group</string>
-    <string name="permission_missing">Une permission indispensable manque, Meshtastic ne peut pas fonctionner. Veuillez modifier dans Réglages.</string>
+        Si vous trouvez que nous devons payer pour mapbox (ou changer de fournisseur de carte), veuillez poster dans sales@suryatel.com</string>
+    <string name="permission_missing">Une permission indispensable manque, Sulomesh ne peut pas fonctionner. Veuillez modifier dans Réglages.</string>
     <string name="radio_sleeping">Radio en veille, change de Canal impossible</string>
     <string name="report_bug">Rapporter Bogue</string>
     <string name="report_a_bug">Rapporter un Bogue</string>
-    <string name="report_bug_text">Vous êtes certain de vouloir rapporter un bogue? Après l\'envoi, veuillez poster dans meshtastic.discourse.group afin que nous puissions examiner ce que vous avez trouvé.</string>
+    <string name="report_bug_text">Vous êtes certain de vouloir rapporter un bogue? Après l\'envoi, veuillez poster dans sales@suryatel.com afin que nous puissions examiner ce que vous avez trouvé.</string>
     <string name="report">Rapport</string>
     <string name="select_radio">Selectionner radio</string>
     <string name="current_pair">Vous êtes actuellement jumelé à radio %s</string>
     <string name="not_paired_yet">Vous n\'avez pas encore jumelé une radio.</string>
     <string name="change_radio">Changer radio</string>
-    <string name="rate_dialog_title_en">Évaluer Meshtastic</string>
+    <string name="rate_dialog_title_en">Évaluer Sulomesh</string>
     <string name="rate_dialog_message_en">Ceci est une application faite par des amateurs, cela vous dérangerait de prendre un moment pour la noter? Si vous trouvez des bugs, merci de poster sur notre forum. Merci pour votre aide!</string>
     <string name="rate_dialog_ok_en">Évaluer maintenant</string>
     <string name="rate_dialog_cancel_en">Évaluer plus tard</string>
@@ -68,7 +68,7 @@
     <string name="modem_config_medium">Moyenne distance (rapide)</string>
     <string name="modem_config_long">Longue distance (plus lent)</string>
     <string name="modem_config_very_long">Très longue distance (lent)</string>
-    <string name="meshtastic_service_notifications">Meshtastic Notifications de Service</string>
+    <string name="meshtastic_service_notifications">Sulomesh Notifications de Service</string>
     <string name="location_disabled_warning">Besoin d\'activer l\'accès à la position dans les Paramètres Android</string>
     <string name="about">Infos</string>
     <string name="a_list_of_nodes_in_the_mesh">Une liste des nœuds dans le réseau</string>
